@@ -1,1 +1,1 @@
-An Implemention of GXU Operating System course's experiment.
+An Implementation of GXU Operating System course's experiment.
